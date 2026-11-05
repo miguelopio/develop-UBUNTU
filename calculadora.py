@@ -3,6 +3,8 @@
 #Para subir a github
 
 #suma
+#version 1.0
+#FUNCION SUMA
      
 print("==================================")
 print("Bienvenido a la calculadora en python")
@@ -13,3 +15,9 @@ num1 = int(input("Ingrese el primer número: "))
 num2 = int(input("Ingrese el segundo número: "))
 suma = num1 + num2
 print("La suma es:", suma)  
+
+#Resta
+#version 1.0
+#funcion resta
+resta = num1 - num2
+print("La resta es:", resta)
